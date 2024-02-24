@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-  color: #9b59b6; /* Purple color */
+  color: #9b59b6;
 }
 
 .game-box {
@@ -34,13 +34,13 @@ h1 {
   font-size: 24px;
   font-weight: bold;
   background-color: #333;
-  border: 2px solid #9b59b6; /* Purple color */
+  border: 2px solid #9b59b6;
   cursor: pointer;
   transition: background-color 0.3s;
 }
 
 .box:hover {
-  background-color: #5d3577; /* Darker purple on hover */
+  background-color: #5d3577;
 }
 
 button {
@@ -48,7 +48,7 @@ button {
   padding: 10px 20px;
   font-size: 16px;
   font-weight: bold;
-  background-color: #9b59b6; /* Purple color */
+  background-color: #9b59b6;
   color: #fff;
   border: none;
   cursor: pointer;
@@ -56,5 +56,5 @@ button {
 }
 
 button:hover {
-  background-color: #823a8a; /* Darker purple on hover */
+  background-color: #823a8a;
 }
